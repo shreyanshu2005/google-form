@@ -1,0 +1,109 @@
+h1 {
+    font-size: 23px;
+}
+
+td {
+    border-radius: 10px;
+    border: 2px solid white;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: white;
+
+}
+
+#f {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#e {
+    margin: 30px;
+}
+
+div {
+    display: block;
+}
+
+body {
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: #f0ebf8;
+}
+
+.emailbox {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#l {
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+
+#lm {
+    width: 500px;
+    margin: 400px;
+}
+
+#pm {
+    width: 500px;
+    margin: 400px;
+}
+
+#um {
+    width: 500px;
+    margin: 400px;
+}
+
+#gm {
+    width: 500px;
+    margin: 400px;
+}
+
+#dm {
+    width: 500px;
+    margin: 400px;
+}
+
+#tm {
+    width: 500px;
+    margin: 400px;
+}
+
+#vm {
+    width: 500px;
+    margin: 400px;
+
+}
+
+#mn {
+    width: 500px;
+    margin: 400px;
+
+}
+
+#good {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#ab {
+    color: white;
+    font-size: 12px;
+    background-color: rgba(3, 5, 18, 0.32);
+
+}
+
+button {
+    background: rgb(45, 126, 231);
+    height: 40px;
+    line-height: 40px;
+    border-radius: 20px;
+    border: none;
+    margin: 10px 0px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    color: white;
+    font-size: 12px;
+    width: 20%;
+}
